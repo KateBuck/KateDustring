@@ -7,7 +7,7 @@
   "size": 1,
   "absorbLasers": true,
   "requirements": [
-    "diaphite/8",
+    "item-diaphite/8",
     "metaglass/2"
   ],
   "category": "defense"
