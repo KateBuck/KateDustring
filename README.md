@@ -1,6 +1,6 @@
 # Katedustring
 
-a mod that implements silly stuff (that is totally usefull and not unbalanced) to the game. im practically new to modding so expect some things to be baddddd!!!!
+a mod that implements serpulo stuff (that is totally usefull and not unbalanced) to the game. im practically new to modding so expect some things to be baddddd!!!!
 
 
 ### what i plan to add eventually...
