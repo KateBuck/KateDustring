@@ -1,13 +1,17 @@
 # Katedustring
 
-yes i have no idea of what im doing, im totally new to modding mindustry so expect this to be baaaddd!!!!
+a mod that implements silly stuff (that is totally usefull and not unbalanced) to the game. im practically new to modding so expect some things to be baddddd!!!!
 
 
-# what to expect from this "mod"
+### what i plan to add eventually...
 
 - random stuff that pops in my mind during a fever dream
+- new sfx
+- new music tracks
+- revamped ui
+- new items and ores
 - slop
-- that´s it
+- and maaaybbeee new mechanics if i figure out how
 
-
-development is active and will continue until i run out of ideas
+---
+development is active and will continue until i run out of ideas.
