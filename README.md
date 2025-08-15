@@ -10,6 +10,7 @@ a mod that implements serpulo stuff (that is totally usefull and not unbalanced)
 - new music tracks
 - revamped ui
 - new items and ores
+- new blocks
 - slop
 - and maaaybbeee new mechanics if i figure out how
 
