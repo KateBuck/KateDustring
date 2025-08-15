@@ -1,6 +1,10 @@
-# MindModding
+# Katedustring
 
-dude wadahell
+yes i have no idea of what am i doing, im totally new to modding mindustry so expect this to look baaddd
 
-- hi
-- also hi
+# what to expect
+
+- new blocks
+- new items
+- a new planet
+- more stuff
