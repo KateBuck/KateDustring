@@ -1,0 +1,13 @@
+{
+  "type": "Wall",
+  "name": "Silicon wall",
+  "description": "Protects structures from enemy projectiles. \nCan absorb lasers from enemies. \nSlightly better than a titanium wall."
+  "buildCostMultiplier": 1.0,
+  "health": 480,
+  "size": 1,
+  "absorbLasers": true,
+  "requirements": [
+    "silicon/8"
+  ],
+  "category": "defense"
+}
