@@ -1,7 +1,8 @@
-name: "euphorealia"
-displayName: "euphorealia"
-author: katebuckett
-description: "a pretty experimental mods that adds stuff i come up to, will update further"
-version: "1.0"
-minGameVersion: "150.1"
-hidden: false
+{
+    "name": "KaDust",
+    "displayName": "KateDustring",
+    "author": "KateBuck",
+    "description": "silly little mod where i test my abilites in modding, will update further probably",
+    "version": "1.0",
+    "minGameVersion": 143
+}
