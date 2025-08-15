@@ -1,12 +1,10 @@
 # Katedustring
 
-yes i have no idea of what am i doing, im totally new to modding mindustry so expect this to look baaddd
+yes i have no idea of what im doing, im totally new to modding mindustry so expect this to be baaaddd!!!!
 
-# what to expect
+# what to expect from the mod
 
-- new blocks
-- new items
-- a new planet
-- more stuff
+- random stuff that pops in my mind in a fever dream
+- slop
+- that´s it
 
-sillier
