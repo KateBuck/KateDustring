@@ -5,7 +5,4 @@
   "category": "crafting",
   "size": 2,
   "itemcapacity": 20,
-"requirements": [
-    "item-diaphite/18",
-    "metaglass/4"
-  ],
+}
