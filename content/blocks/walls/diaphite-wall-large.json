@@ -3,7 +3,7 @@
   "name": "Large Diaphite wall",
   "description": "Protects structures from enemy projectiles. \n.Absorbs lasers and electric arcs."
   "buildCostMultiplier": 1.0,
-  "health": 2600,
+  "health": 2620,
   "size": 2,
   "absorbLasers": true,
   "requirements": [
