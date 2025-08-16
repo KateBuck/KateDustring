@@ -14,7 +14,7 @@
   ],
   "category": "crafting"
   "craftTime": 30,
-  "craftEffect": "BlasExplosion",
+  "craftEffect": "BlastExplosion",
   "consumes": {
   "power": 2,
   "items": [
