@@ -1,7 +1,7 @@
 {
   "type": "GenericCrafter",
   "name": "Diaphite compresser",
-  "description": "Compresses metaglass and graphite into diaphite. \n.Requires power to function."
+  "description": "Compresses metaglass and graphite into diaphite. \nRequires power to function."
   "buildCostMultiplier": 1.0,
   "health": 220,
   "size": 2,
@@ -13,8 +13,11 @@
     "copper/60",
   ],
   "category": "crafting"
-  "craftTime": 30,
+  "craftTime": 40,
   "craftEffect": "blastExplosion",
+  "outputItems": [
+    "item-diaphite/2",
+  ],
   "consumes": {
   "power": 2,
   "items": [
