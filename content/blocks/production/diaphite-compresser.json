@@ -8,18 +8,18 @@
   "ambientSound": "hum",
   "ambientSoundVolume": 0.05
   "requirements": [
-    "graphite/40",
-    "metaglass/40",
-    "copper/60",
+    "graphite/50",
+    "metaglass/20",
+    "silicon/20",
   ],
   "category": "crafting"
-  "craftTime": 40,
+  "craftTime": 42,
   "craftEffect": "blastExplosion",
   "outputItems": [
-    "item-diaphite/2",
+    "item-diaphite/3",
   ],
   "consumes": {
-  "power": 2,
+  "power": 1.5,
   "items": [
     "graphite/4",
     "metaglass/2",
