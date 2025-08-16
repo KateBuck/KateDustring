@@ -1,0 +1,10 @@
+{
+  "type": "GenericCrafter",
+  "name": "Diaphite Compresser",
+  "description": "compresses metaglass and graphite together in order to make diaphite. \nRequires power and fuel.",
+  "category": "crafting",
+  "size": 2,
+  "itemcapacity": 20,
+  "requirements": [
+    
+]
