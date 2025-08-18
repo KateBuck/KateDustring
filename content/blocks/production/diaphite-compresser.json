@@ -13,7 +13,7 @@
     "silicon/20",
   ],
   "category": "crafting"
-  "craftTime": 80,
+  "craftTime": 100,
   "craftEffect": "blastExplosion",
   "outputItems": [
     "item-diaphite/3",
