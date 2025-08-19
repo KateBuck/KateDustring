@@ -6,6 +6,6 @@ will post updates here lol
 
 --- 19/07
 - added recreated kallozama
--  will have a purpose soon
+*  will have a purpose soon
 - added Kopper
 -  will have a purpose soon
