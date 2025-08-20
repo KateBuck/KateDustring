@@ -17,7 +17,7 @@
   "craftTime": 170,
   "craftEffect": "blastExplosion",
   "outputItems": [
-    "item-recreated-biorium",
+    "item-recreated-biorium/2",
   ],
   "consumes": {
   "power": 2,
