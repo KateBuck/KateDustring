@@ -9,4 +9,4 @@ hi this is kinda wonky due me not documenting the first stuff added to the mod
 - ***added Kopper***: will have a purpose soon, for now it's just useless
 ---
 --- 20/08
-- ***added biotic recreator**: crafter for the biorium, will also have more options in the future
+- ***added biotic recreator***: crafter for the biorium, will also have more options in the future
