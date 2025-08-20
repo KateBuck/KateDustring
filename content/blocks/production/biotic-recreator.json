@@ -1,0 +1,29 @@
+{
+  "type": "GenericCrafter",
+  "name": "Biotic recreator",
+  "description": "Recreates the ancient biorium for use. \nRequires power and oil to function."
+  "buildCostMultiplier": 1.0,
+  "health": 300,
+  "size": 3,
+  "ambientSound": "hum",
+  "ambientSoundVolume": 0.05
+  "requirements": [
+    "copper/150",
+    "titanium/200",
+    "metaglass/120",
+    "silicon/150",
+  ],
+  "category": "crafting"
+  "craftTime": 170,
+  "craftEffect": "blastExplosion",
+  "outputItems": [
+    "item-recreated-biorium",
+  ],
+  "consumes": {
+  "power": 2,
+  "items": [
+    "plastanium/2",
+    "silicon/5",
+  ],
+}
+}
