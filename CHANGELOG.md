@@ -5,5 +5,5 @@ hi this is kinda wonky due me not documenting the first stuff added to the mod
 - will post updates here lol
 ---
 --- 19/07
-- ***added recreated kallozama***: will have a purpose soon, for now it's just useless
+- ***added recreated biorium***: will have a purpose soon, for now it's just useless
 - ***added Kopper***: will have a purpose soon, for now it's just useless
