@@ -17,13 +17,13 @@
   "craftTime": 170,
   "craftEffect": "blastExplosion",
   "outputItems": [
-    "item-recreated-biorium/2",
+    "item-recreated-biorium/4",
   ],
   "consumes": {
   "power": 2,
   "items": [
-    "plastanium/2",
-    "silicon/5",
+    "plastanium/8",
+    "phase-fabric/2",
   ],
 }
 }
