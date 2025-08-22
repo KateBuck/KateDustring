@@ -10,3 +10,6 @@ hi this is kinda wonky due me not documenting the first stuff added to the mod
 ---
 --- 20/08
 - ***added biotic recreator***: crafter for the biorium, will also have more options in the future
+---
+--- 21/08
+- ***added a new theme menu music***
